@@ -1,4 +1,4 @@
-# React event handling with functional and class component
+# React Event Handling
 Includes following
 Listening to Events & Working with Event Handlers
 - Event handling exapmle with Class component and functional Component 
